@@ -2,6 +2,9 @@
 
 Projet réalisé par **l’équipe 28** composée de Mostafa E.J, Obaida E.J, Paul B et Mohamed Khalil B
 
+**NB :** Projet réalisé dans un cadre académique et initialement hébergé sur le GitLab privé de l’école.
+Cette version GitHub est une copie destinée à rendre le projet accessible publiquement.
+
 ## Description
 Ce projet vise la **segmentation automatique de surfaces d’eau** à partir d'images colocalisées et d’images **SAR** suivant **l'indice OASIS**.
 
@@ -379,4 +382,5 @@ Les sorties numériques sont enregistrés dans le dossier `resultats/`.
   
   ) -> None:
   ```
+
 
