@@ -1,0 +1,10 @@
+codes/__pycache__/
+codes/.vscode/
+.vscode/
+StagesENSIMAG/
+optical_data/
+Shapefiles/
+Data/
+GroundTruth_optiques/
+GroundTruth_DYN/
+NDWI_colocalise_avec_sar/
